@@ -6,7 +6,7 @@ Pytorch implementation of ChannelNet (NIPS2018)
 - Pytorch 1.0
 - tqdm
 
-## Results
+## CIFAR100 Results
 
 | Model | Test accuracy | Parameters |
 | ---- | ---- | ---- |
